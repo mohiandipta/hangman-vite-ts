@@ -88,7 +88,7 @@ const BODY_PARTS = [HEAD, BODY, RIGHT_ARM, LEFT_ARM, RIGHT_LEG, LEFT_LEG]
 
 type HangmanDrawingProps = {
     numberOfGuesses: number
-  }
+}
 
 
 export const HangmanDrawing = () => {
